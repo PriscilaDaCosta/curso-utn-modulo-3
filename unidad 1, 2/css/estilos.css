@@ -10,7 +10,7 @@ body{
     background-color: #F9E4D4;
 }
 .menu{
-    background-image: url(../img/banner1.png);
+    background-image: url(../img/banner.png);
     height: 200px;
     border-bottom: 2px solid #D67D3E;
     margin-bottom: 20px;
@@ -287,7 +287,7 @@ footer{
     padding: 3em 0;
     margin-top: 2em;
     text-align: center;
-    background-image: url(../img/banner1.png);
+    background-image: url(../img/banner.png);
     border-top: 2px solid #D67D3E;
 }
 .foot{
